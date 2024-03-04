@@ -1,0 +1,52 @@
+{
+    "welcome-to-notify":"خوش آمدید" ,
+    "desc-notify" : "کدهای OTP بانکی، پیام های تراکنش، تبلیغات از محصولات مورد علاقه خود و موارد دیگر را در یک درگاه واحد دریافت کنید. برای شروع شماره تلفن خود را در زیر وارد کنید.",
+    "application-languages" :"زبان برنامه",
+    "phone-number" : "شماره تلفن",
+    "rullesOtp1":" من  با",
+    "terms" : " قوانین ",
+    "and" : " و ",
+    "conditions":"  شرایط ",
+    "rullesOtp2" : "در این اپلیکیشن موافقم ",
+    "application" :"هستم",
+    "confirm-number-phone":"تایید شماره تلفن",
+
+    "otp-code-sent" :"ارسال کد",
+    "desc-otp-send" : " ما فقط یک کد OTP پنج رقمی (گذرواژه یکبار مصرف) را به تلفن شما ارسال کردیم. شما باید در هر زمانی آن را دریافت کنید  ",
+    "enter-code" :"کد دریافتی را وارد کنید",
+    "confirm-otp-code":"تایید کد ارسالی",
+
+    "final-step" : "مرحله پایانی",
+    "desc-final-step" : " ما تقریباً تمام شده ایم. برای تکمیل تنظیمات برنامه، تنظیمات زیر را تمام کنید و شروع کنید. ",
+    "first-name" : "نام",
+    "last-name" : "نام خانوادگی",
+    "email" : "ایمیل",
+    "currency" : "واحد پولی",
+    "your-first-name" :"اسم شما ",
+    "your-last-name" :"فامیل شما",
+    "E-email" :"E.g. example@you.com",
+    "iranian-riyal" :"ریال",
+
+
+    "TabBar": "TabBar",
+    "Messages" :"پیام ها",
+    "Promotions" :"تبلیغات",
+    "Acc.Balance" :"موجودی حساب",
+    "Settings" :"تنظیمات",
+
+    "search" :"جستجو",
+    "find-text" : "جستجوی متن",
+     "date-range" : "تاریخ را وارد کنید",
+     "source" : "منبع",
+     "include-archived-messages" :"پیام های آرشیو شده",
+
+
+        "discover-new-tastes" :"فروشگاه های جدید",
+        "insurance-resellers" : "فروشندگان بیمه",
+        "online-marcketplace" : "فروشگاه آنلاین",
+        "fllow" : "دنبال کردن",
+        "following" : "دنبال شده",
+        
+        "account-balance" : "موجودی حساب"
+
+}

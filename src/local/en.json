@@ -1,0 +1,58 @@
+{
+    "welcome-to-notify":"Welcome to Notify" ,
+    "desc-notify" : "Receive bank OTP codes, transaction messages, promotions form your favorite products, and more within one single portal. Enter your phone number below to get started.",
+    "application-languages" :"Application language",
+    "phone-number" : "Phone number",
+    "rullesOtp1":"I agree to the",
+    "terms" : " Terms",
+    "and" : " and",
+    "conditions":" Conditions ",
+    "rullesOtp2" : "of use of this",
+    "application" :"application",
+    "confirm-number-phone":"Confirm phone number",
+
+   
+    "enter-code" :"Enter the code you receive below",
+    "otp-code-sent" :"OTP code sent",
+    "desc-otp-send" : "We just sent out a five-digit OTP code (One-Time Password) to your phone. Your should be receiving it anytime now...",
+    "confirm-otp-code":"Confirm OTP code",
+
+    "final-step" : "The final steps",
+    "desc-final-step" : " We are almost done. Finish the configurations below to complete the application setup, and get started. ",
+    "first-name" : "First name",
+    "last-name" : "Last name",
+    "email" : "Email address",
+    "currency" : "Currency unit",
+    "your-first-name" :"Your first name",
+    "your-last-name" :"Your last name",
+    "E-email" :"E.g. example@you.com",
+    "iranian-riyal" :"Iranian Rial",
+    "confirm" : "Confirm",
+
+    "TabBar": "TabBar",
+    "Messages" :"Messages",
+    "Promotions" :"Promotions",
+    "Acc.Balance" :"Acc.Balance",
+    "Settings" :"Settings",
+
+
+     "search" : "Search",
+     "find-text" : "Find text",
+     "date-range" : "Date range",
+     "source" : "Source",
+     "include-archived-messages" :"Include archved messages",
+
+
+     "discover-new-tastes" :"Discover new tastes",
+     "insurance-resellers" : "Insurance resellers",
+     "online-marcketplace" : "Online marcketplace",
+     "fllow" : "Follow",
+     "following" : "Following",
+  
+
+     "account-balance" : "Account Balance"
+
+
+
+    
+}
